@@ -3,7 +3,7 @@
 ## 安装
 
 ```sh
-pip install chinese-calendar
+python3 -m pip install git+https://github.com/fuyunliu/chinese-calendar.git
 ```
 
 ## 用法
